@@ -1,1 +1,1 @@
-# Technocolsbs-Internship-Project
+# Technocolabs-Internship-Project
